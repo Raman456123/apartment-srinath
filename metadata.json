@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AptCare - Apartment Maintenance System",
+  "description": "A comprehensive role-based apartment maintenance management system allowing residents to raise complaints, admins to triage and assign workers, and workers to manage and complete tasks with real-time tracking.",
+  "requestFramePermissions": []
+}
